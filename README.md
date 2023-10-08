@@ -1,1 +1,3 @@
 # Currency-Calculator-2.0
+
+The Currency Converter 2.0 project is a tool that allows users to convert values from one currency to another. The Currency Converter project can be useful for travelers, investors, and anyone who needs to make financial transactions involving different currencies, exchange rates and provides users with the most up-to-date conversion rates. The user simply selects the currency they want to convert from and to, enters the amount, and the tool does the rest. The user selects the currency they wish to convert from and to, enters the amount, and the tool calculates the converted amount.It is based on Modern GUI (CustomTkinter).
